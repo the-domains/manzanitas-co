@@ -1,7 +1,7 @@
 name: manzanitas.co
 favicon: null
-layout_spectrum: 0.07053862768225372
-typography_spectrum: 0.8328209463506937
+layout_spectrum: 0
+typography_spectrum: 0.10597
 cta:
   domain: null
   bucket: null
